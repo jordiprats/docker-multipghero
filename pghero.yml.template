@@ -1,0 +1,5 @@
+development:
+  adapter: postgresql
+  databases:
+    primary:
+      url: 'postgres://user:password@mydatabase.example.com:5432/db'
